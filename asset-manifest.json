@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/socail-app/static/css/main.27343697.css",
+    "main.js": "/socail-app/static/js/main.53dbcfdb.js",
+    "static/media/heroimg.png": "/socail-app/static/media/heroimg.1fb1195d600b01aa45c1.png",
+    "static/media/img17.png": "/socail-app/static/media/img17.2b91ed4d30911df5eef9.png",
+    "static/media/unsplash_QdAAasrZhdk.png": "/socail-app/static/media/unsplash_QdAAasrZhdk.d2795b4aa633a69a0cf9.png",
+    "static/media/img15.png": "/socail-app/static/media/img15.71c1e7d2048f7174abfd.png",
+    "static/media/img11.png": "/socail-app/static/media/img11.a4a29475d6942eace7ca.png",
+    "static/media/img7.png": "/socail-app/static/media/img7.dbbbf0e59a745c4a6f12.png",
+    "static/media/img16.png": "/socail-app/static/media/img16.f746ac9c64c94b5fd55a.png",
+    "static/media/img13.png": "/socail-app/static/media/img13.9c69039f3e5e8b5a5353.png",
+    "static/media/img10.png": "/socail-app/static/media/img10.9b57ef276f077b32f806.png",
+    "static/media/img8.png": "/socail-app/static/media/img8.8cfd05c42215f3c11b82.png",
+    "static/media/img9.png": "/socail-app/static/media/img9.3334cbe6ee40e6fa6b6d.png",
+    "static/media/img12.png": "/socail-app/static/media/img12.1ed06022ecc06a9158b1.png",
+    "static/media/img14.png": "/socail-app/static/media/img14.3f5e613009bb0b3296ea.png",
+    "static/media/Rectangle11.png": "/socail-app/static/media/Rectangle11.b2e0fd471a873a653f07.png",
+    "static/media/unsplash_IF9TK5Uy-KI.png": "/socail-app/static/media/unsplash_IF9TK5Uy-KI.aa2ca06ab6533a3606ee.png",
+    "index.html": "/socail-app/index.html",
+    "main.27343697.css.map": "/socail-app/static/css/main.27343697.css.map",
+    "main.53dbcfdb.js.map": "/socail-app/static/js/main.53dbcfdb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27343697.css",
+    "static/js/main.53dbcfdb.js"
+  ]
+}
