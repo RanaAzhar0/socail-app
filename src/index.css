@@ -11,3 +11,196 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nav-main{
+  background: linear-gradient(219.84deg, #474747 4.14%, #222222 44.22%);
+}
+.logo{
+  font-style: normal;
+  font-size: 24px;
+  line-height: 36px;
+}
+li{
+  color: #C4C4C4;
+  font-weight: 500;
+  font-size: 19px;
+  line-height: 25px;
+}
+.nav-heading{
+  font-style: normal;
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 96px;
+}
+.nav-para{
+  font-weight: 500;
+  font-size: 19px;
+  line-height: 2;
+  color: #C4C4C4;
+}
+.nav-btn{
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 20px 40px;
+  gap: 10px;
+  position: absolute;
+  background: linear-gradient(97.65deg, #60BBEE 0.33%, #0A72AD 93.35%);
+  box-shadow: 0px 10px 15px rgba(1, 115, 153, 0.2);
+}
+.nav-heading2{
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 54px;
+  color: #FFFFFF;
+}
+.span{
+  color: #2387C0;
+}
+.nav-para2{
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  color: #C4C4C4;
+}
+.nav-last-div{
+  background: linear-gradient(97.73deg, #399FD8 -6.96%, #0775B4 23.5%, #003756 92.79%);
+  box-shadow: 0px 10px 15px rgba(1, 115, 153, 0.2);
+}
+.t{
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 54px;
+  color: #FFFFFF;
+  position: absolute;
+  margin-top: 42px;
+}
+.t-t{
+  font-weight: normal;
+  font-size: 20px;
+}
+.opreated{
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 36px;
+  color: #FFFFFF;
+}
+.left{  
+  background-size: 100% 100%;
+  background: url(./img/heroimg.png);
+}
+.nav-para3{
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 2.2;
+  color: #FFFFFF;
+}
+.Hero-main{
+  background: rgba(246, 246, 246, 0.8);
+}
+.hero-heading{
+  font-weight: 700;
+  font-size: 46px;
+  line-height: 69px;
+
+  color: #242527;
+}
+.hero-para{
+  font-weight: 500;
+  font-size: 19px;
+  line-height: 2.2;
+  color: #C4C4C4;
+}
+.card2-para{
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 42px;
+  color: #242527;
+}
+.card2-heading{
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.9;
+  color: #C4C4C4;
+}
+.card3-heading{
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 2.2;
+  color: #C4C4C4;
+}
+.lastcard-heading{
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 42px;
+  color: #242527;
+}
+.lastcard-para{
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 21px;
+  color: #242527;
+}
+.pro{
+  line-height: 1.7;
+  font-weight: 700;
+  font-size: 17px;
+  color: #242527;
+}
+.imges-heading{
+  font-weight: 700;
+  font-size: 47px;
+  line-height: 69px;
+  color: #242527;
+}
+
+.small{
+  background: linear-gradient(90deg, #60BBEE -2.22%, #2387C0 67.22%);
+}
+.icon-heading{
+  font-weight: 700;
+  font-size: 46px;
+  line-height: 69px;
+  color: #242527;
+}
+.footer{
+  background: linear-gradient(219.84deg, #474747 4.14%, #222222 44.22%);
+}
+.story-heading{
+  font-weight: 700;
+  letter-spacing: 1px;
+  font-size: 46px;
+  line-height: 69px;
+  color: #242527;
+}
+.Story-para{
+  font-size: 19px;
+  line-height: 2.2;
+}
+.btn2{
+  width: 155px;
+  height: 64px;
+  margin-left: 120px;
+  margin-top: 405px;
+  color: white;
+  font-weight: 700;
+  background: #0A72AD;
+  box-shadow: 0px 10px 15px rgba(1, 115, 153, 0.2);
+}
+.img17{
+  width: 575px;
+  height: 490.45px;
+  box-sizing: border-box;
+  box-shadow: 0px 0.4px 0.6px 0px black;
+}
+.meeetsbtn{
+  background: linear-gradient(97.65deg, #60BBEE 0.33%, #0A72AD 93.35%);
+  box-shadow: 0px 10px 15px rgba(1, 115, 153, 0.2);
+}
